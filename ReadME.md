@@ -33,16 +33,6 @@ This project not only serves as a practical application of data analysis skills 
 
 2. **Which listings are underpriced or overpriced based on similar properties in the same area?**
 
-### Competitive Analysis
-1. **How does the performance of Brisbane’s Airbnb market compare to other major Australian cities like Sydney or Melbourne?**
-1. **How does the performance of Brisbane’s Airbnb market compare to other major Australian cities like Sydney or Melbourne?**
-
-2. **What market share do top Airbnb hosts have in Brisbane, and how does it affect competition?**
-2. **What market share do top Airbnb hosts have in Brisbane, and how does it affect competition?**
-
-3. **What are the top-performing listings in terms of revenue, and what characteristics do they share?**
-3. **What are the top-performing listings in terms of revenue, and what characteristics do they share?**
-
 
 
 ## Features

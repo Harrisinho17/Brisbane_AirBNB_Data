@@ -33,7 +33,7 @@ This project not only serves as a practical application of data analysis skills 
 
 2. **Which listings are underpriced or overpriced based on similar properties in the same area?**
 
-
+[[Revenue and Pricing Optimization](https://public.tableau.com/app/profile/alexander.harris7255/viz/RevenueandPricingOptimization/Dashboard1?publish=yes)]
 
 ## Features
 
@@ -106,7 +106,10 @@ This project not only serves as a practical application of data analysis skills 
 
 - **Tableau Dashboard**:
   - [[Market Trends and Performance Dashboard](https://public.tableau.com/app/profile/alexander.harris7255/viz/BrisbaneQLDMarketTrendsPerformance/Dashboard1?publish=yes)]
+  
   - [[Host and Property Insights Deshboard](https://public.tableau.com/app/profile/alexander.harris7255/viz/HostandPropertyInsightDashboard_17262409787800/Dashboard1)]
+
+  - [[Revenue and Pricing Optimization](https://public.tableau.com/app/profile/alexander.harris7255/viz/RevenueandPricingOptimization/Dashboard1?publish=yes)]
   
   
 
